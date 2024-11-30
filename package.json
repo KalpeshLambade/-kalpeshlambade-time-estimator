@@ -1,0 +1,31 @@
+{
+  "name": "@kalpeshlambade/time-estimator",
+  "version": "1.0.0",
+  "description": "A lightweight library to estimate remaining execution time for processes",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KalpeshLambade/-kalpeshlambade-time-estimator.git"
+  },
+  "keywords": [
+    "progress",
+    "timer",
+    "time-estimator",
+    "execution-time",
+    "npm-package"
+  ],
+  "author": "Kalpesh Lambade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KalpeshLambade/-kalpeshlambade-time-estimator/issues"
+  },
+  "homepage": "https://github.com/KalpeshLambade/-kalpeshlambade-time-estimator#readme",
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "typescript": "^5.7.2"
+  }
+}

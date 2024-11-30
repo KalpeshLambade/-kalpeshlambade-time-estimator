@@ -1,6 +1,7 @@
 {
   "name": "@kalpeshlambade/time-estimator",
   "version": "1.0.0",
+  "private": false,
   "description": "A lightweight library to estimate remaining execution time for processes",
   "main": "dist/index.js",
   "scripts": {
